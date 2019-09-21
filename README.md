@@ -1,2 +1,7 @@
 # summary
-personal summary for jobs, lives and others
+
+Personal summary for jobs, lives and others.
+
+## 内容
+
+* [工作必备](work-used.md)
