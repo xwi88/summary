@@ -3,6 +3,12 @@
 Summary for jobs, lives and others.
 个人知识库，包括：各种实用工具，提升效率技巧，经验及技能总结。
 
+## 目录
+
+- [ ] [git相关](git/)
+- [ ] [golang相关](golang/)
+- [ ] [shell相关](shell/)
+
 ## 沟通交流
 
 - [微信](https://weixin.qq.com/)
