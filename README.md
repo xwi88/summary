@@ -24,8 +24,10 @@ Summary for jobs, lives and others.
 - [Edraw](https://www.edrawsoft.cn/) [亿图](https://www.edrawsoft.cn/)
 - [Visio](https://products.office.com/zh-cn/visio/)
 
-## 文档协作
+## 文档协作|知识管理
 
+- [confluence](https://www.atlassian.com/software/confluence)
+- [语雀](https://www.yuque.com)
 - [WPS](https://www.wps.cn/)
 - [Office](https://www.office.com/)
 - [Tapd](https://www.tapd.cn/)
