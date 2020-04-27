@@ -42,15 +42,19 @@ max-txn-ops: 128
 max-request-bytes: 1572864
 
 # Minimum duration interval that a client should wait before pinging server.
-grpc-keepalive-min-time: 5s
+#5s?
+grpc-keepalive-min-time: 5
 
 # Frequency duration of server-to-client ping to check if a connection is alive (0 to disable).
-grpc-keepalive-interval: 2h
+#2h?
+grpc-keepalive-interval: 2
 
 # Additional duration of wait before closing a non-responsive connection (0 to disable).
-grpc-keepalive-timeout: 20s
+#20s?
+grpc-keepalive-timeout: 20
 
 # List of comma separated URLs to listen on for peer traffic.
+# specify the local addresses etcd server binds to for accepting incoming connections.
 listen-peer-urls: http://10.14.41.53:2380
 
 # List of comma separated URLs to listen on for client traffic.
