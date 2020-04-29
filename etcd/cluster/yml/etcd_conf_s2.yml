@@ -58,7 +58,7 @@ grpc-keepalive-timeout: 20
 listen-peer-urls: http://10.14.41.52:2380
 
 # List of comma separated URLs to listen on for client traffic.
-listen-client-urls: http://10.14.41.52:2379
+listen-client-urls: http://10.14.41.52:2379,http://localhost:2379
 
 # Maximum number of snapshot files to retain (0 is unlimited).
 # The default for users on Windows is unlimited, and manual purging down to 
